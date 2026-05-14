@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilawal Ali</h1>
-<h3 align="center">A passionaCybersecurity Enthusiast | Focused on Ethical Hacking, Forensics & SOC Operationste frontend developer from India</h3>
+<h3 align="center">A passionaCybersecurity Enthusiast | Focused on Ethical Hacking, Forensics & SOC Operationste </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bila-ali&label=Profile%20views&color=0e75b6&style=flat" alt="bila-ali" /> </p>
 
