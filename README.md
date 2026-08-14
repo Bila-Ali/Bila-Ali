@@ -1,27 +1,84 @@
-<h1 align="center">Hi 👋, I'm Bilawal Ali</h1>
-<h3 align="center">A passionaCybersecurity Enthusiast | Focused on Ethical Hacking, Forensics & SOC Operationste </h3>
+<h1 align="center">Bilawal Ali</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bila-ali&label=Profile%20views&color=0e75b6&style=flat" alt="bila-ali" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bila-ali" alt="bila-ali" /></a> </p>
-
-- 🔭 I’m currently working on **AI in Malware**
-
-- 💬 Ask me about **Bug Hunting | Pentesting | Malware Analysis | SOC Analyst | Digital Forensics|**
-
-- 📫 How to reach me **khooharobilawalali@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bilawal-ali-0b0211245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilawal-ali-0b0211245/" height="30" width="40" /></a>
-<a href="https://medium.com/@khooharobilawalali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khooharobilawalali" height="30" width="40" /></a>
+<p align="center">
+  <strong>Cybersecurity Analyst | SOC & Threat Detection | DFIR | Malware Analysis</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bilawal-ali-0b0211245/">LinkedIn</a> •
+  <a href="mailto:khooharobilawalali@gmail.com">Email</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bila-ali&show_icons=true&locale=en&layout=compact" alt="bila-ali" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bila-ali&show_icons=true&locale=en" alt="bila-ali" /></p>
+### About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bila-ali&" alt="bila-ali" /></p>
+Cybersecurity practitioner focused on **Security Operations, Threat Detection, Digital Forensics, Malware Analysis, and Offensive Security**.
+
+I build and investigate security environments with a practical approach — from **SIEM monitoring and incident response** to **malware analysis, forensic investigation, and penetration testing**.
+
+Currently working on **AI-assisted malware detection and forensic analysis of malicious PDF files**.
+
+### Security Focus
+
+* **SOC & Blue Team:** Security Monitoring, Threat Detection, Incident Response
+* **SIEM:** Wazuh, Splunk, Elastic Stack, Kibana
+* **DFIR:** Digital Forensics, Log Analysis, Email Forensics, IOC Analysis
+* **Malware Analysis:** Static Analysis, PDF Malware Analysis, Malware Detection
+* **Offensive Security:** Penetration Testing, Web Security, Vulnerability Assessment
+* **Threat Intelligence:** MITRE ATT&CK, IOC Investigation
+* **Automation:** Python, Bash
+
+### Security Toolkit
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+</p>
+
+**Security Tools**
+
+`Wazuh` `Splunk` `Elastic Stack` `Kibana` `Suricata` `Wireshark` `Burp Suite` `Nmap` `Metasploit` `SQLMap` `Gobuster` `ffuf` `Volatility` `FTK Imager` `KAPE`
+
+### Selected Work
+
+**AI-Based Detection & Forensic Analysis of PDF Malware**
+Machine-learning based system for detecting malicious PDF documents, extracting security-relevant features, providing explainability, and supporting forensic analysis.
+
+**MailForensics — DFIR Email Analysis Platform**
+A security-focused platform for analyzing `.eml` files, extracting IOCs, investigating email artifacts, and identifying phishing indicators.
+
+**Security Monitoring & Detection Labs**
+Hands-on environments built around Wazuh, Elastic Stack, Splunk, Suricata, and Linux for security monitoring, log analysis, detection engineering, and incident response.
+
+### Certifications & Achievements
+
+* 🏆 **1st Place — QUEST CTF 2026**
+* 🥇 **1st Place — BSCYS CTF Hackathon 2026**
+* 🏅 **NADRA Bug Bounty Challenge 2026 — Consolation Prize**
+* **Google Cybersecurity Professional Certificate**
+* **ISC2 Certified in Cybersecurity (CC)**
+* **OPSWAT Cybersecurity Fundamentals Associate**
+* **HTB P.O.O. Pro Lab**
+* **TryHackMe Advent of Cyber**
+
+### Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bilawal-ali-0b0211245/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@khooharobilawalali">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35" height="35" alt="Medium"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bila-ali&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bila-ali&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</p>
