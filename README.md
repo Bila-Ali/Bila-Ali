@@ -1,133 +1,87 @@
-<h1 align="center">Bilawal Ali</h1><p align="center">
-  <strong>Cybersecurity Analyst | SOC & Threat Detection | DFIR | Malware Analysis</strong>
-</p><p align="center">
-  <a href="https://www.linkedin.com/in/bilawal-ali-0b0211245/">LinkedIn</a>
-  ·
-  <a href="mailto:khooharobilawalali@gmail.com">Email</a>
-  ·
-  <a href="https://bila-ali.github.io">Website</a>
-</p>---
+<div align="center">
 
-Profile
+# Bilawal Ali
 
-Cybersecurity practitioner focused on Security Operations, Threat Detection, Digital Forensics and Incident Response, Malware Analysis, and Security Monitoring.
+**Cybersecurity Analyst — SOC & Threat Detection · DFIR · Malware Analysis**
 
-My primary focus is on understanding and investigating security events through SIEM telemetry, system and network logs, forensic artifacts, indicators of compromise, and threat intelligence.
+[LinkedIn](https://www.linkedin.com/in/bilawal-ali-0b0211245/) · [Email](mailto:khooharobilawalali@gmail.com) · [Portfolio](https://bila-ali.github.io)
 
-I work across both defensive and offensive security to better understand attack techniques, detection opportunities, and incident investigation workflows.
+</div>
 
 ---
 
-Core Competencies
+## About
 
-Security Operations
+I work on the defensive side of security — monitoring, investigating, and breaking down how attacks actually happen so I can catch them faster next time. My day-to-day sits across SOC monitoring, incident response, digital forensics, and malware analysis, with enough offensive security background (CTFs, pentesting) to understand how attackers think.
 
-Security Monitoring · Alert Triage · Threat Detection · Incident Investigation · Incident Response · Detection Engineering
-
-SIEM & Log Analysis
-
-Wazuh · Splunk · Elastic Stack · Kibana · Security Event Analysis · Log Correlation · IOC Correlation
-
-DFIR
-
-Digital Forensics · Memory Analysis · Disk Forensics · Email Forensics · Timeline Analysis · Artifact Analysis · IOC Extraction
-
-Threat Intelligence
-
-MITRE ATT&CK · IOC Investigation · TTP Analysis · Threat Hunting
-
-Malware Analysis
-
-Static Analysis · PDF Malware Analysis · Malware Detection · Malware Triage
-
-Network Security
-
-Network Traffic Analysis · IDS/IPS · PCAP Analysis · Suricata · Wireshark
-
-Offensive Security
-
-Web Security · Penetration Testing · Vulnerability Assessment · Burp Suite · Nmap
-
-Automation
-
-Python · Bash · Security Tooling · Investigation Automation
+Right now I'm building an AI-assisted detection pipeline for malicious PDFs — combining static feature extraction with ML classification and explainability, so analysts get a verdict they can actually trust and act on.
 
 ---
 
-Security Operations Stack
+## Focus Areas
 
-Category| Technologies
-SIEM| Wazuh, Splunk, Elastic Stack, Kibana
-Detection| Suricata, Wazuh, Sigma concepts, MITRE ATT&CK
-Network Analysis| Wireshark, Suricata
-DFIR| Volatility, FTK Imager, KAPE
-Offensive Security| Burp Suite, Nmap, Metasploit, SQLMap, Gobuster, ffuf
-Operating Systems| Linux, Windows
-Programming| Python, Bash
-Infrastructure| Docker, Git
-
----
-
-Security Research & Engineering
-
-AI-Based PDF Malware Detection & Forensic Analysis
-
-Developing a machine-learning based system for detecting malicious PDF documents and supporting security investigation.
-
-Focus areas include feature extraction, malicious document classification, explainability, and forensic analysis.
-
-MailForensics
-
-DFIR-oriented email analysis platform for investigating ".eml" files, extracting indicators of compromise, analyzing email artifacts, and identifying phishing characteristics.
-
-Security Monitoring Labs
-
-Hands-on security environments using Wazuh, Elastic Stack, Splunk, Suricata, and Linux to practice security monitoring, log analysis, detection engineering, and incident investigation.
+| Domain | What I Do |
+|---|---|
+| **SOC / Blue Team** | Security monitoring, alert triage, threat detection, incident response |
+| **DFIR** | Digital forensics, log analysis, email forensics, IOC extraction & investigation |
+| **Malware Analysis** | Static analysis, PDF malware dissection, detection tooling |
+| **Threat Intelligence** | MITRE ATT&CK mapping, IOC correlation |
+| **Offensive Security** | Penetration testing, web app security, vulnerability assessment |
+| **Automation** | Python & Bash tooling for detection and investigation workflows |
 
 ---
 
-Security Achievements
+## Toolkit
 
-1st Place — QUEST CTF 2026
+**SIEM & Monitoring**
+`Wazuh` · `Splunk` · `Elastic Stack` · `Kibana` · `Suricata`
 
-1st Place — BSCYS CTF Hackathon 2026
+**Analysis & Forensics**
+`Wireshark` · `Volatility` · `FTK Imager` · `KAPE`
 
-Consolation Prize — NADRA Bug Bounty Challenge 2026
+**Offensive / Testing**
+`Burp Suite` · `Nmap` · `Metasploit` · `SQLMap` · `Gobuster` · `ffuf`
 
-These competitions provided practical exposure to digital forensics, reverse engineering, web security, OSINT, malware analysis, and vulnerability research.
+**Platform**
+`Linux` · `Docker` · `Git` · `Python` · `Bash`
 
 ---
 
-Certifications
+## Selected Work
 
+**AI-Based Detection & Forensic Analysis of PDF Malware**
+ML system for identifying malicious PDF documents — feature extraction, classification, and explainability geared toward forensic use rather than just a binary verdict.
+
+**MailForensics — DFIR Email Analysis Platform**
+Analyzes `.eml` files end to end: IOC extraction, header/artifact investigation, and phishing indicator detection.
+
+**Security Monitoring & Detection Labs**
+Self-built lab environments on Wazuh, Elastic Stack, Splunk, and Suricata for practicing detection engineering, log analysis, and incident response against realistic attack scenarios.
+
+---
+
+## Certifications & Recognition
+
+- 🏆 1st Place — QUEST CTF 2026
+- 🥇 1st Place — BSCYS CTF Hackathon 2026
+- 🏅 NADRA Bug Bounty Challenge 2026 — Consolation Prize
 - Google Cybersecurity Professional Certificate
+- ISC2 Certified in Cybersecurity (CC)
 - OPSWAT Cybersecurity Fundamentals Associate
-- Hack The Box P.O.O. Pro Lab
+- HTB P.O.O. Pro Lab
 - TryHackMe Advent of Cyber
 
 ---
 
-Technical Environment
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</p>---
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilawal-ali-0b0211245/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@khooharobilawalali)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-121212?style=flat-square&logo=googlechrome&logoColor=white)](https://bila-ali.github.io)
 
-GitHub Activity
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bila-ali&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bila-ali&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>---
+<img src="https://github-readme-stats.vercel.app/api?username=bila-ali&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bila-ali&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bilawal-ali-0b0211245/">LinkedIn</a>
-  ·
-  <a href="mailto:khooharobilawalali@gmail.com">Email</a>
-  ·
-  <a href="https://bila-ali.github.io">Website</a>
-</p>
+</div>
