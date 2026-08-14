@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bilawal-ali-0b0211245/">LinkedIn</a> •
   <a href="mailto:khooharobilawalali@gmail.com">Email</a>
+  <a href="https://bila-ali.github.io">Portfolio</a>
 </p>
 
 ---
