@@ -63,8 +63,8 @@ Self-built lab environments on Wazuh, Elastic Stack, Splunk, and Suricata for pr
 ## Certifications & Recognition
 
 - 🏆 1st Place — QUEST CTF 2026
-- 🥇 1st Place — BSCYS CTF Hackathon 2026
 - 🏅 NADRA Bug Bounty Challenge 2026 — Consolation Prize
+- Organized — BSCYS CTF Hackathon 2026
 - Google Cybersecurity Professional Certificate
 - OPSWAT Cybersecurity Fundamentals Associate
 - HTB P.O.O. Pro Lab
